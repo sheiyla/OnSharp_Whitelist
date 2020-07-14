@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>Codeskull</Authors>
+    <Copyright>OnSharp_Whitelist for OnSet by Codeskull (Sheiyla)</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Onsharp" Version="1.0.5" />
+  </ItemGroup>
+
+</Project>
